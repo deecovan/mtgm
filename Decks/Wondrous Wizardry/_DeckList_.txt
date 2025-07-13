@@ -1,0 +1,24 @@
+2 Arcane Epiphany (FDN) 29
+1 Archmage of Runes (FDN) 30
+1 Balmor, Battlemage Captain (FDN) 237
+4 Burst Lightning (FDN) 192
+3 Chart a Course (FDN) 586
+3 Dive Down (FDN) 588
+1 Drake Hatcher (FDN) 35
+2 Enigma Drake (FDN) 657
+2 Fiery Annihilation (FDN) 86
+4 Ghitu Lavarunner (FDN) 623
+2 Heartfire Immolator (FDN) 201
+8 Island (FDN) 275
+4 Izzet Guildgate (FDN) 691
+2 Mischievous Mystic (FDN) 47
+7 Mountain (FDN) 278
+1 Niv-Mizzet, Visionary (FDN) 123
+4 Opt (FDN) 512
+1 Ovika, Enigma Goliath (FDN) 663
+4 Swiftwater Cliffs (FDN) 268
+1 Temple of Epiphany (FDN) 699
+3 Tolarian Terror (DMU) 72
+1 Token Creature — Drake
+1 Token Creature — Faerie
+1 Token Creature — Phyrexian Goblin

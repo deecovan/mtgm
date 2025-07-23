@@ -1,6 +1,6 @@
 Deck
 1 Cloud, Planet's Champion (FIN) 552
-2 Cloudbound Moogle (FIN) 11
+2 Dazzling Angel (FDN) 9
 4 Dwarven Castle Guard (FIN) 18
 4 Magitek Infantry (FIN) 25
 2 Slash of Light (FIN) 32
@@ -19,7 +19,7 @@ Deck
 1 Barret Wallace (FIN) 129
 1 Lightning, Security Sergeant (FIN) 560
 1 Judgment Bolt (FIN) 559
-1 Ultima Weapon (FIN) 563
+1 Gilgamesh, Master-at-Arms (FIN) 139
 4 Rabanastre, Royal City (FIN) 287
 4 Mountain (FIN) 303
 10 Plains (FIN) 294
@@ -31,4 +31,6 @@ Sideboard
 1 G'raha Tia (FIN) 21
 1 Fate of the Sun-Cryst (FIN) 19
 1 The Crystal's Chosen (FIN) 14
-2 Coeurl (FIN) 12
+1 Coeurl (FIN) 12
+1 Ultima Weapon (FIN) 563
+1 Cloudbound Moogle (FIN) 11

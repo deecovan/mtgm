@@ -1,0 +1,37 @@
+Deck
+1 Machinist's Arsenal (FIN) 23
+1 Zack Fair (FIN) 45
+1 Dragoon's Lance (FIN) 17
+1 Ashe, Princess of Dalmasca (FIN) 7
+1 Adelbert Steiner (FIN) 3
+1 Lion Heart (FIN) 261
+1 White Auracite (FIN) 41
+1 Sidequest: Catch a Fish (FIN) 31
+1 White Mage's Staff (FIN) 42
+1 Gaelicat (FIN) 22
+1 Slash of Light (FIN) 32
+2 Cloudbound Moogle (FIN) 11
+2 Aerith Rescue Mission (FIN) 5
+1 Ninja's Blades (FIN) 108
+1 Sidequest: Hunt the Mark (FIN) 119
+1 Poison the Waters (FIN) 111
+1 Tonberry (FIN) 122
+1 Fang, Fearless l'Cie (FIN) 99
+2 Scoured Barrens (TDM) 267
+1 Undercity Dire Rat (FIN) 123
+1 Sephiroth's Intervention (FIN) 116
+1 Resentful Revelation (FIN) 114
+1 Fight On! (FIN) 100
+1 Shinra Reinforcements (FIN) 118
+4 Adventurer's Inn (FIN) 271
+2 Insomnia, Crown City (FIN) 282
+8 Swamp (FIN) 300
+8 Plains (FIN) 294
+2 Compound Fracture (ANB) 46
+2 Dune Drifter (DFT) 200
+2 Squall, SeeD Mercenary (FIN) 243
+2 Fiendish Panda (FDN) 120
+2 Sun-Blessed Healer (FDN) 25
+1 Spellscorn Coven (WOE) 237
+
+Sideboard

@@ -1,36 +1,35 @@
-Deck
-1 Cloud, Planet's Champion (FIN) 552
-2 Dazzling Angel (FDN) 9
-4 Dwarven Castle Guard (FIN) 18
-4 Magitek Infantry (FIN) 25
-2 Slash of Light (FIN) 32
-2 White Auracite (FIN) 41
-1 White Mage's Staff (FIN) 42
-1 Adelbert Steiner (FIN) 3
-1 Angelic Destiny (FDN) 565
-1 Dragoon's Lance (FIN) 17
-1 Rosa, Resolute White Mage (FIN) 555
-1 Beatrix, Loyal General (FIN) 554
-3 Item Shopkeep (FIN) 142
-2 Warrior's Sword (FIN) 169
-1 Suplex (FIN) 164
-2 Freya Crescent (FIN) 138
-2 Samurai's Katana (FIN) 154
-1 Barret Wallace (FIN) 129
-1 Lightning, Security Sergeant (FIN) 560
-1 Judgment Bolt (FIN) 559
-1 Gilgamesh, Master-at-Arms (FIN) 139
-4 Rabanastre, Royal City (FIN) 287
-4 Mountain (FIN) 303
-10 Plains (FIN) 294
-1 Fate of the Sun-Cryst (FIN) 19
-2 Magitek Scythe (FIN) 562
-4 Wind-Scarred Crag (DFT) 271
+2 Warrior's Sword
+1 White Mage's Staff
+10 Plains
+1 Barret Wallace
+1 Fate of the Sun-Cryst
+1 Adelbert Steiner
+4 Magitek Infantry
+2 White Auracite
+4 Mountain
+4 Dwarven Castle Guard
+1 Dragoon's Lance
+2 Slash of Light
+1 Beatrix, Loyal General
+3 Item Shopkeep
+1 Cloud, Planet's Champion
+2 Samurai's Katana
+2 Freya Crescent
+4 Wind-Scarred Crag
+1 Suplex
+2 Dazzling Angel
+1 Angelic Destiny
+1 Judgment Bolt
+1 Rosa, Resolute White Mage
+4 Rabanastre, Royal City
+1 Lightning, Security Sergeant
+1 Gilgamesh, Master-at-Arms
+2 Magitek Scythe
 
-Sideboard
-1 G'raha Tia (FIN) 21
-1 Fate of the Sun-Cryst (FIN) 19
-1 The Crystal's Chosen (FIN) 14
-1 Coeurl (FIN) 12
-1 Ultima Weapon (FIN) 563
-1 Cloudbound Moogle (FIN) 11
+// Sideboard
+1 The Crystal's Chosen
+1 G'raha Tia
+1 Fate of the Sun-Cryst
+1 Cloudbound Moogle
+1 Ultima Weapon
+1 Coeurl

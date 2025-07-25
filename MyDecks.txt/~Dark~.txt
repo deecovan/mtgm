@@ -1,0 +1,18 @@
+About
+Name Mono-Black Midrange
+
+Deck
+22 Swamp
+4 Cut Down
+4 Duress
+2 Go for the Throat
+2 Liliana of the Veil
+2 Mishra's Foundry
+2 Anoint with Affliction
+2 Archfiend of the Dross
+2 Sheoldred's Edict
+4 Bloodletter of Aclazotz
+4 Deep-Cavern Bat
+2 Nowhere to Run
+4 Unholy Annex // Ritual Chamber
+4 Unstoppable Slasher

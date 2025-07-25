@@ -1,22 +1,16 @@
 2 Forsaken Miner (OTJ) 88
-2 Cavernous Maw (LCI) 270
-8 Swamp (ANB) 116
+13 Swamp (ANB) 116
 2 Vengeful Bloodwitch (FDN) 76
-4 Plains (ANB) 115
+10 Plains (ANB) 115
 2 Nesting Bot (DFT) 22
 2 Bitter Triumph (LCI) 91
 2 Corrupted Conviction (MOM) 98
 2 Worthy Cost (TDM) 99
 4 Bartolomé del Presidio (LCI) 224
-2 Crystal Grotto (WOE) 254
-2 Conduit Pylons (OTJ) 254
 4 Eaten Alive (MID) 99
 2 Voice of Victory (TDM) 33
 3 Enduring Innocence (DSK) 6
 3 Sephiroth, Fabled SOLDIER (FIN) 115
-2 Promising Vein (LCI) 279
 4 Infestation Sage (FDN) 64
 2 Loran of the Third Path (BRO) 12
-1 Spellbook Vendor (WOE) 31
-2 Ajani's Pridemate (FDN) 135
 3 Healer's Hawk (FDN) 142

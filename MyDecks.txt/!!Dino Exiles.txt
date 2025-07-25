@@ -24,4 +24,5 @@ Deck
 2 Spinner of Souls (FDN) 112
 1 Stormplain Detainment (TDM) 28
 1 Lassoed by the Law (OTJ) 18
-2 White Auracite (FIN) 41
+1 White Auracite (FIN) 41
+1 Huatli, Poet of Unity (LCI) 189

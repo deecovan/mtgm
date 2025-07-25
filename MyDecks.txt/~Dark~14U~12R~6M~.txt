@@ -1,7 +1,3 @@
-About
-Name Mono-Black Midrange
-
-Deck
 22 Swamp
 4 Cut Down
 4 Duress

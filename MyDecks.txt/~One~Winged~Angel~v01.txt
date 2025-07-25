@@ -1,9 +1,8 @@
-Deck
 2 Forsaken Miner (OTJ) 88
 2 Cavernous Maw (LCI) 270
-9 Swamp (ANB) 116
+8 Swamp (ANB) 116
 2 Vengeful Bloodwitch (FDN) 76
-7 Plains (ANB) 115
+4 Plains (ANB) 115
 2 Nesting Bot (DFT) 22
 2 Bitter Triumph (LCI) 91
 2 Corrupted Conviction (MOM) 98
@@ -23,5 +22,8 @@ Deck
 1 Deathcap Marionette (LCI) 100
 1 Hungry Ghoul (FDN) 62
 1 Krumar Initiate (TDM) 84
-2 Adelbert Steiner (FIN) 3
+1 Spellbook Vendor (WOE) 31
 2 Ajani's Pridemate (FDN) 135
+1 Souls of the Lost (LCI) 121
+2 Healer's Hawk (FDN) 142
+2 Hinterland Sanctifier (FDN) 730

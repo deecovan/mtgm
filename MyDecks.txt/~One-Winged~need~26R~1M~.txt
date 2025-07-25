@@ -1,0 +1,33 @@
+3 Forsaken Miner (OTJ) 88
+4 Concealed Courtyard (KLR) 282
+4 Bleachbone Verge (DFT) 250
+3 Plains (ANB) 115
+3 Vengeful Bloodwitch (FDN) 76
+4 Swamp (ANB) 116
+4 Nesting Bot (DFT) 22
+4 Caves of Koilos (DMU) 244
+2 Zahur, Glory's Past (DFT) 229
+1 Corrupted Conviction (MOM) 98
+1 Worthy Cost (TDM) 99
+4 Bartolomé del Presidio (LCI) 224
+1 Dalkovan Encampment (TDM) 253
+1 Tarrian's Journal (LCI) 126
+1 Great Arashin City (TDM) 257
+4 Eaten Alive (MID) 99
+4 Voice of Victory (TDM) 33
+3 Enduring Innocence (DSK) 6
+4 Sephiroth, Fabled SOLDIER (FIN) 115
+1 Fountainport (BLB) 253
+4 Infestation Sage (FDN) 64
+
+Sideboard
+2 Loran of the Third Path (BRO) 12
+1 Day of Judgment (STA) 2
+1 Kutzil's Flanker (LCI) 20
+1 Go for the Throat (BRO) 102
+1 Gix's Command (BRO) 97
+1 Destroy Evil (DMU) 17
+2 Duress (XLN) 105
+2 Ghost Vacuum (DSK) 248
+2 Cathar Commando (MID) 10
+2 Cut Down (DMU) 89

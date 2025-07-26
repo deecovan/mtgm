@@ -1,6 +1,6 @@
 Deck
-10 Plains (ANB) 115
-12 Swamp (ANB) 116
+9 Plains (ANB) 115
+14 Swamp (ANB) 116
 2 Corrupted Conviction (MOM) 98
 3 Bartolomé del Presidio (LCI) 224
 3 Sephiroth, Fabled SOLDIER (FIN) 115
@@ -11,9 +11,11 @@ Deck
 2 Al Bhed Salvagers (FIN) 88
 2 Fear of Lost Teeth (DSK) 97
 2 Loran of the Third Path (BRO) 12
-4 Shinra Reinforcements (FIN) 118
 2 Sanguine Syphoner (FDN) 68
 2 Voice of Victory (TDM) 33
 2 Enduring Innocence (DSK) 6
 2 White Mage's Staff (FIN) 42
 2 Kor Halberd (MOM) 27
+1 Nightblade Brigade (TDM) 85
+1 Dark Knight's Greatsword (FIN) 95
+1 Killer's Mask (DSK) 104

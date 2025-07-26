@@ -1,0 +1,55 @@
+Deck
+6 Swamp (ANB) 116
+6 Plains (ANB) 115
+2 Corrupted Conviction (MOM) 98
+3 Bartolomé del Presidio (LCI) 224
+3 Sephiroth, Fabled SOLDIER (FIN) 115
+3 Forsaken Miner (OTJ) 88
+3 Vengeful Bloodwitch (FDN) 76
+2 Bitter Triumph (LCI) 91
+1 Worthy Cost (TDM) 99
+4 Eaten Alive (MID) 99
+4 Infestation Sage (FDN) 64
+1 Kalastria Highborn (FDN) 607
+3 Al Bhed Salvagers (FIN) 88
+1 Vampire Neonate (M19) 124
+1 Moonstone Harbinger (BLB) 101
+1 Etched Familiar (MOM) 101
+1 Agate-Blade Assassin (BLB) 82
+1 Raven of Fell Omens (OTJ) 101
+1 Dreg Recycler (MOM) 100
+1 Spectrum Sentinel (BRO) 244
+1 Fear of Lost Teeth (DSK) 97
+1 Tarrian's Journal (LCI) 126
+1 Zahur, Glory's Past (DFT) 229
+2 Nesting Bot (DFT) 22
+1 Duress (XLN) 105
+1 Destroy Evil (DMU) 17
+1 Vampire Spawn (AFR) 123
+1 Valley Rotcaller (BLB) 119
+1 Blood Hustler (OTJ) 80
+1 Ghost Vacuum (DSK) 248
+3 Vraan, Executioner Thane (ONE) 114
+1 Mine Worker (BRO) 239
+1 Scheming Aspirant (ONE) 107
+1 Dalkovan Encampment (TDM) 253
+2 Loran of the Third Path (BRO) 12
+1 Popular Egotist (DSK) 114
+4 Shinra Reinforcements (FIN) 118
+2 Sanguine Syphoner (FDN) 68
+1 Go for the Throat (BRO) 102
+1 Gix's Command (BRO) 97
+1 Syr Ginger, the Meal Ender (WOE) 252
+1 Cecil, Dark Knight (FIN) 91
+1 Ayara, Widow of the Realm (MOM) 90
+3 Concealed Courtyard (KLR) 282
+1 Alley Assailant (MKM) 76
+1 Great Arashin City (TDM) 257
+1 Kutzil's Flanker (LCI) 20
+1 Cathar Commando (MID) 10
+1 Cut Down (DMU) 89
+3 Caves of Koilos (DMU) 244
+3 Voice of Victory (TDM) 33
+3 Bleachbone Verge (DFT) 250
+1 Day of Judgment (STA) 2
+3 Enduring Innocence (DSK) 6

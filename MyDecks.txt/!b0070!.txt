@@ -1,0 +1,22 @@
+Deck
+12 Swamp (ANB) 116
+10 Plains (ANB) 115
+2 Corrupted Conviction (MOM) 98
+4 Bartolomé del Presidio (LCI) 224
+3 Sephiroth, Fabled SOLDIER (FIN) 115
+3 Forsaken Miner (OTJ) 88
+2 Vengeful Bloodwitch (FDN) 76
+2 Bitter Triumph (LCI) 91
+2 Worthy Cost (TDM) 99
+4 Eaten Alive (MID) 99
+4 Infestation Sage (FDN) 64
+3 Al Bhed Salvagers (FIN) 88
+2 Fear of Lost Teeth (DSK) 97
+2 Nesting Bot (DFT) 22
+1 Blood Hustler (OTJ) 80
+2 Loran of the Third Path (BRO) 12
+4 Shinra Reinforcements (FIN) 118
+2 Sanguine Syphoner (FDN) 68
+1 Alley Assailant (MKM) 76
+2 Voice of Victory (TDM) 33
+3 Enduring Innocence (DSK) 6

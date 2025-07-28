@@ -1,6 +1,6 @@
 Deck
-12 Swamp (ANB) 116
-10 Plains (ANB) 115
+10 Swamp (FIN) 301
+8 Plains (ANB) 115
 2 Dalkovan Packbeasts (TDM) 7
 2 Bartolomé del Presidio (LCI) 224
 3 Sephiroth, Fabled SOLDIER (FIN) 115
@@ -18,6 +18,7 @@ Deck
 2 Nightblade Brigade (TDM) 85
 4 Ajani's Pridemate (FDN) 135
 2 Vincent's Limit Break (FIN) 126
+4 Scoured Barrens (TDM) 267
 
 Sideboard
 1 Enduring Innocence (DSK) 6

@@ -1,6 +1,6 @@
 Deck
-10 Swamp (FIN) 301
-8 Plains (ANB) 115
+11 Swamp (FIN) 301
+9 Plains (ANB) 115
 2 Dalkovan Packbeasts (TDM) 7
 2 Bartolomé del Presidio (LCI) 224
 3 Sephiroth, Fabled SOLDIER (FIN) 115
@@ -17,13 +17,12 @@ Deck
 2 Kor Halberd (MOM) 27
 2 Nightblade Brigade (TDM) 85
 4 Ajani's Pridemate (FDN) 135
-2 Vincent's Limit Break (FIN) 126
 4 Scoured Barrens (TDM) 267
 
 Sideboard
 1 Enduring Innocence (DSK) 6
-1 Killer's Mask (DSK) 104
 1 Dark Knight's Greatsword (FIN) 95
 1 Corrupted Conviction (MOM) 98
 1 Dragonback Lancer (TDM) 9
 1 Coordinated Maneuver (TDM) 6
+1 Vincent's Limit Break (FIN) 126

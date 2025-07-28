@@ -1,0 +1,26 @@
+Deck
+14 Swamp (ANB) 116
+10 Plains (ANB) 115
+1 Dalkovan Packbeasts (TDM) 7
+2 Bartolomé del Presidio (LCI) 224
+3 Sephiroth, Fabled SOLDIER (FIN) 115
+2 Vengeful Bloodwitch (FDN) 76
+2 Bitter Triumph (LCI) 91
+2 Worthy Cost (TDM) 99
+3 Infestation Sage (FDN) 64
+2 Al Bhed Salvagers (FIN) 88
+2 Fear of Lost Teeth (DSK) 97
+2 Loran of the Third Path (BRO) 12
+2 Sanguine Syphoner (FDN) 68
+2 Voice of Victory (TDM) 33
+2 White Mage's Staff (FIN) 42
+2 Kor Halberd (MOM) 27
+1 Nightblade Brigade (TDM) 85
+4 Ajani's Pridemate (FDN) 135
+2 Vincent's Limit Break (FIN) 126
+
+Sideboard
+1 Enduring Innocence (DSK) 6
+1 Killer's Mask (DSK) 104
+1 Dark Knight's Greatsword (FIN) 95
+1 Corrupted Conviction (MOM) 98

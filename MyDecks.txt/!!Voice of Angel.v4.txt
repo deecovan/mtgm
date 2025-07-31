@@ -1,0 +1,32 @@
+Deck
+9 Swamp (FIN) 301
+9 Plains (ANB) 115
+2 Dalkovan Packbeasts (TDM) 7
+2 Bartolomé del Presidio (LCI) 224
+3 Sephiroth, Fabled SOLDIER (FIN) 115
+2 Vengeful Bloodwitch (FDN) 76
+2 Bitter Triumph (LCI) 91
+2 Worthy Cost (TDM) 99
+2 Infestation Sage (FDN) 64
+2 Al Bhed Salvagers (FIN) 88
+2 Fear of Lost Teeth (DSK) 97
+2 Vincent's Limit Break (FIN) 126
+2 Sanguine Syphoner (FDN) 68
+2 Voice of Victory (TDM) 33
+2 White Mage's Staff (FIN) 42
+2 Nightblade Brigade (TDM) 85
+3 Ajani's Pridemate (FDN) 135
+4 Scoured Barrens (TDM) 267
+2 Midgar, City of Mako (FIN) 286
+2 Hinterland Sanctifier (FDN) 730
+1 Enduring Innocence (DSK) 6
+1 Syr Vondam, Sunstar Exemplar (EOE) 231
+
+Sideboard
+1 Blood Hustler (OTJ) 80
+1 Corrupted Conviction (MOM) 98
+1 Anafenza, Unyielding Lineage (TDM) 2
+1 Coordinated Maneuver (TDM) 6
+1 Joust Through (FDN) 19
+1 Moment of Triumph (FDN) 500
+1 Diregraf Ghoul (FDN) 171
